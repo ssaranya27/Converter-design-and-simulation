@@ -100,7 +100,10 @@ The AC power supply from mains first gets converted into and unregulated DC and 
 ![image](https://github.com/anishkumar-Embedded/Converter-design-and-simulation/assets/71547910/0cfd4fc7-1eff-42e3-9806-319bfe174926)
 
 # Output
-
+## DC TO DC VOLTAGE CONVERTOR
+![DC TO DC EX-01 EBD](https://github.com/Oviya24032K6/Converter-design-and-simulation/assets/147139999/a1df98cc-fc73-4ff6-bb42-9a9901245a9e)
+## AC to DC convertor
+![AC TO DC EX-01 EBD](https://github.com/Oviya24032K6/Converter-design-and-simulation/assets/147139999/2cbbcca3-8c41-44ba-81d9-3dc3f4cd7ff1)
 
 
 
